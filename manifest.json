@@ -1,11 +1,11 @@
 {
-    "name": "iDirect",
-    "short_name": "iDirect",
+    "name": "Staff Portal",
+    "short_name": "Staff Portal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Admin panel",
+    "description": "Website give members of staff access to important information",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
